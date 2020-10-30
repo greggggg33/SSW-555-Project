@@ -1,4 +1,4 @@
-0 Note one three generation of an imaginery family created by Guowei Li
+0 Note three generations of an imaginery family created by Guowei Li
 0 NOTE define Nancy
 0 I01 INDI
 1 NAME Nancy
@@ -30,7 +30,8 @@
 2 DATE 9 APR 1985
 1 FAMS F23
 0 NOTE define Emma
-0 I05 Emma
+0 I05 INDI
+1 NAME Emma
 1 SEX F
 1 BIRT
 2 DATE 2 MAR 1985
