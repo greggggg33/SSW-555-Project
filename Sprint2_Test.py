@@ -1,5 +1,5 @@
 import unittest
-from homework4 import searchByYears, getID
+from Sprint2 import searchByYears, getID
 
 #tests for searching how many people were born in a given time frame.
 #tests for searching how many people were born in a given time frame.
